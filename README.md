@@ -1,14 +1,14 @@
 ![Digilib](https://user-images.githubusercontent.com/92472860/221360898-e4518060-5acc-40c6-baf5-52613a3ae63d.png)
-<h1 align="center">Digital Library (Digilib)</h1>
+<h1 align="center"> 🪷 Digital Library (Digilib) 🪷 </h1>
 <p align="center">Digilib merupakan aplikasi peminjaman buku perpustakaan SMK Negeri 6 Jember secara Digital.</p>
 
 ## Instal
-1. Clone Project ini
+🌱 Clone Project ini 
     ```bash
     git clone https://github.com/ellenaasari/digilib.git
     cd digilib
     ```
-2. Instal dependensi
+🌱 Instal dependensi
     ```bash
     composer install
     ```
@@ -19,20 +19,20 @@
     npm install && npm run dev
     ```
 
-3. Konfigurasi Laravel
+🌱 Konfigurasi Laravel
     ```bash
     copy .env.example .env
     php artisan key:generate
     ```
 
-4. Buat database 'digilib' pada phpmyadmin
+🌱 Buat database 'digilib' pada phpmyadmin
 
-5. Migrate database
+🌱 Migrate database
     ```bash
     php artisan migrate --seed
     ```
 
-6. Serve aplikasi
+🌱 Serve aplikasi
     ```bash
     php artisan serve
     ```
@@ -41,6 +41,3 @@
     ```bash
     Sebelum login silahkan registrasi terlebih dahulu
     ```
-
-## Contributing
-Feel free to contribute and make a pull request.
