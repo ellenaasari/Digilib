@@ -37,7 +37,7 @@
     php artisan serve
     ```
     
- ✨ Note ✨
+   Catatan : 🌼
     ```bash
-    Sebelum login silahkan registrasi terlebih dahulu
+    Sebelum login silahkan registrasi terlebih dahulu 
     ```
