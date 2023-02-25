@@ -1,8 +1,8 @@
-![Image](https://raw.githubusercontent.com/zuramai/laravel-mazer/main/screenshot.png)
+![Digilib](https://user-images.githubusercontent.com/92472860/221360634-763cd95c-4f5b-4c10-9724-1a43973dbf4b.png)
 <h1 align="center">Digital Library (Digilib)</h1>
-<p align="center">Mazer is a Admin Dashboard Template that can help you develop faster. We bring Mazer with Laravel starter project. It's completely free and you can use it in your projects.</p>
+<p align="center">Digilib merupakan aplikasi peminjaman buku perpustakaan SMK Negeri 6 Jember secara Digital.</p>
 
-## Main Template
+## Template
 If you want to check the original template in HTML5 and Bootstrap, [click here](https://github.com/zuramai/mazer) to open template repository.
 
 ## Instal
