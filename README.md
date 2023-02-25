@@ -3,12 +3,12 @@
 <p align="center">Digilib merupakan aplikasi peminjaman buku perpustakaan SMK Negeri 6 Jember secara Digital.</p>
 
 ## Instal
-🌱 Clone Project ini 
+1. Clone Project ini 
     ```bash
     git clone https://github.com/ellenaasari/digilib.git
     cd digilib
     ```
-🌱 Instal dependensi
+2. Instal dependensi
     ```bash
     composer install
     ```
@@ -19,25 +19,25 @@
     npm install && npm run dev
     ```
 
-🌱 Konfigurasi Laravel
+3. Konfigurasi Laravel
     ```bash
     copy .env.example .env
     php artisan key:generate
     ```
 
-🌱 Buat database 'digilib' pada phpmyadmin
+4. Buat database 'digilib' pada phpmyadmin
 
-🌱 Migrate database
+5. Migrate database
     ```bash
     php artisan migrate --seed
     ```
 
-🌱 Serve aplikasi
+6. Serve aplikasi
     ```bash
     php artisan serve
     ```
     
-   Note
+ ✨ Note ✨
     ```bash
     Sebelum login silahkan registrasi terlebih dahulu
     ```
