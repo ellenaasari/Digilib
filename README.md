@@ -1,9 +1,6 @@
-![Digilib](https://user-images.githubusercontent.com/92472860/221360634-763cd95c-4f5b-4c10-9724-1a43973dbf4b.png)
+![Digilib](https://user-images.githubusercontent.com/92472860/221360898-e4518060-5acc-40c6-baf5-52613a3ae63d.png)
 <h1 align="center">Digital Library (Digilib)</h1>
 <p align="center">Digilib merupakan aplikasi peminjaman buku perpustakaan SMK Negeri 6 Jember secara Digital.</p>
-
-## Template
-If you want to check the original template in HTML5 and Bootstrap, [click here](https://github.com/zuramai/mazer) to open template repository.
 
 ## Instal
 1. Clone Project ini
