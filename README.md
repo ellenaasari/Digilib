@@ -2,7 +2,9 @@
 <h1 align="center"> 🪷 Digital Library (Digilib) 🪷 </h1>
 <p align="center">Digilib merupakan aplikasi peminjaman buku perpustakaan SMK Negeri 6 Jember secara Digital.</p>
 
-## Instal
+> Install [Node.js](https://nodejs.org/en/)"Node.js" - npm / yarn.
+
+## Install
 1. Clone Project ini 
     ```bash
     git clone https://github.com/ellenaasari/digilib.git
@@ -38,6 +40,6 @@
     ```
     
    Catatan : 🌼
-    ```bash
-    Sebelum login silahkan registrasi terlebih dahulu 
-    ```
+
+    > Sebelum login silahkan registrasi terlebih dahulu 
+    
