@@ -2,7 +2,7 @@
 <h1 align="center"> 🪷 Digital Library (Digilib) 🪷 </h1>
 <p align="center">Digilib merupakan aplikasi peminjaman buku perpustakaan SMK Negeri 6 Jember secara Digital.</p>
 
-> Install [Node.js](https://nodejs.org/en/)"Node.js" - npm / yarn.
+> Install [Node.js](https://nodejs.org/en/) - npm / yarn
 
 ## Install
 1. Clone Project ini 
